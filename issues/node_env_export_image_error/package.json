@@ -1,0 +1,14 @@
+{
+  "name": "export_image",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "export": "pnpm tsx export.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
