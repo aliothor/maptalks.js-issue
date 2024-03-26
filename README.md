@@ -2,7 +2,7 @@
 maptalks.js 问题反馈仓库
 
 
-## node 环境导出图片错误
+## [node 环境导出图片错误](./issues/node_env_export_image_error/README.md)
 
 ### 复现步骤
 
