@@ -2,19 +2,19 @@
   "name": "maptalks.js-issue",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-    "export":"pnpm --filter \"export_image\" export"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.11.30",
-    "tsx": "^4.7.1",
-    "typescript": "^5.4.3"
+  "license": "MIT",
+  "author": "aliothor",
+  "scripts": {
+    "export": "pnpm --filter \"export_image\" export"
   },
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.51",
+    "@napi-rs/canvas": "^0.1.52",
     "maptalks": "1.0.0-rc.33"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.5"
   }
 }
